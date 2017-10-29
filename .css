@@ -88,4 +88,7 @@ table {
   border: 0;
   border-spacing: 0;
 }
-
+
+#friends tr td a {
+  color: inherit;
+}
